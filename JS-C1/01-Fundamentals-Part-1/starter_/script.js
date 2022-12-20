@@ -1,3 +1,4 @@
+/*
 let js = "amazing";
 
 // if (js === "amazing")
@@ -21,3 +22,53 @@ console.log(firstName);
 console.log(last_name);
 console.log($presentJob, _firstJob);
 console.log(js);
+*/
+
+/*
+ 
+7-Primitive Data Type.
+    number(floating numbers), string, boolean, undefined(empty value), null, symbol[ES2015](unique values), bigInt
+
+    Js has Dynamic typing means values type NOT varible which defines the DATA TYPE.
+ 
+*/
+
+let javascriptIsFun = true;
+
+console.log(javascriptIsFun);
+console.log(typeof(javascriptIsFun));
+
+console.log(typeof 'javascript');
+console.log(typeof 12.2);
+console.log(typeof false);
+
+let year;
+console.log(typeof year);
+
+year = 1899;
+console.log(typeof year);
+
+
+console.log(typeof null); // Object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
