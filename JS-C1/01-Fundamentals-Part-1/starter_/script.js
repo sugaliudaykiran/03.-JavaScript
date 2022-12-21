@@ -33,6 +33,7 @@ console.log(js);
  
 */
 
+/*
 let javascriptIsFun = true;
 
 console.log(javascriptIsFun);
@@ -49,7 +50,29 @@ year = 1899;
 console.log(typeof year);
 
 
-console.log(typeof null); // Object
+console.log(typeof null); // Object 
+
+*/
+
+// "let, const" are available in new version ES6.
+let age = 22;
+age = 23;       //  Reassign the variable  Mutable Variable.
+age = 24;
+
+
+const birthYear = 2000;   // In-Mutable variable.
+// const job; Error..
+
+var job = "programmer";
+job = "teacher";
+job = "youTuber";
+
+
+lastName = "Sugali";
+console.log(lastName);
+
+ 
+
 
 
 
